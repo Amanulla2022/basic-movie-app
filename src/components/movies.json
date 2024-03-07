@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "The Matrix Resurrections",
+    "year": "2021",
+    "runtime": "148 min",
+    "desc": "Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.",
+    "genres": ["Action", "Sci-Fi"],
+    "lang": "English",
+    "director": "Lana Wachowski",
+    "poster": "https://image.tmdb.org/t/p/original/6aNRxxRjLF4xH2m2bLr4aC2rDea.jpg",
+    "banner": "https://cdn.entries.clios.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/72/2297/21055/120728/meFjkHgGhyryNQAi4tKg5xQc0CVZ1llOf1LtvcOgLpk.jpg/meFjkHgGhyryNQAi4tKg5xQc0CVZ1llOf1LtvcOgLpk.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Meg 2: The Trench",
+    "year": "1999",
+    "runtime": "116 min",
+    "desc": "Dive into uncharted waters with Jason Statham and global action icon Wu Jing as they lead a daring research team on an exploratory dive into the deepest depths of the ocean. Pitted against colossal Megs and relentless environmental plunderers, our heroes must outrun, outsmart, and outswim their merciless predators in a pulse-pounding race against time.",
+    "genres": ["Adventure", "Action"],
+    "lang": "English",
+    "director": "Ben Wheatley",
+    "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00358316-pwkgbmmuxn-portrait.jpg",
+    "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00358316-acxspxhfqm-horizontal_poster_still.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "year": "2010",
+    "runtime": "148 min",
+    "desc": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "lang": "English",
+    "director": "Christopher Nolan",
+    "poster": "https://rukminim2.flixcart.com/image/850/1000/l27wtjk0/poster/x/y/i/medium-inception-movie-hd-matte-finish-poster-butcutnw9954-original-imagdhw4azeedhbz.jpeg?q=90&crop=false",
+    "banner": "https://collider.com/wp-content/uploads/inception_movie_poster_banner_03.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Five Nights at Freddy`s",
+    "year": "2004",
+    "runtime": "109 min",
+    "desc": "A troubled security guard begins working at Freddy Fazbear's Pizzeria. While spending his first night on the job, he realizes the late shift at Freddy's won't be so easy to make it through.",
+    "director": "Emma Tammi",
+    "genres": ["Horror", "Thriller"],
+    "lang": "English",
+    "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00363275-zzkqjnmzyy-portrait.jpg",
+    "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00363275-zqldmfycfu-horizontal_poster_still.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Gadar 2: The Katha Continues ",
+    "year": "1999",
+    "runtime": "170 min",
+
+    "desc": "Gadar 2 brings back India`s most loved family of Tara, Sakeena and Jeete; 22 years after its predecessor. Set against the backdrop of Indo-Pakistan war of 1971, Tara Singh, once again, will face every enemy to protect the honor of country and family.",
+    "genres": ["Action", "Drama"],
+    "lang": "Hindi",
+    "director": "Anil Sharma",
+    "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00377441-tpeldqsvpv-portrait.jpg",
+    "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00377441-nmqxtrcvba-horizontal_poster_still.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Barbie",
+    "year": "2023",
+    "runtime": "114 min",
+    "desc": "To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you`re a Ken.",
+    "dels": "1h 54m •  • UA",
+    "genres": ["Adventure", "Comedy", "Fantasy"],
+    "lang": "English",
+    "director": "Greta Gerwig",
+    "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00072466-tfebpvzkts-portrait.jpg",
+    "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00072466-bmezmvjjph-horizontal_poster_without_logo.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Dumb Money",
+    "year": "2007",
+    "desc": "Dumb Money is the ultimate David vs. Goliath tale, based on the insane true story of everyday people who flipped the script on Wall Street and got rich by turning GameStop (yes, the mall videogame store) into the world's hottest company",
+    "runtime": "107 min",
+    "genres": ["Biography", "Drama", "Comedy"],
+    "director": "Craig Gillespie",
+    "lang": "English",
+    "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00365336-nnkdfstwqb-portrait.jpg",
+    "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00365336-texxysgjkn-horizontal_poster_still.jpg"
+  },
+
+  {
+    "id": 8,
+    "title": "La La Land",
+    "year": "2016",
+    "runtime": "128 min",
+    "desc": "A jazz pianist falls for an aspiring actress in Los Angeles. The story of a couple of dreamers, who meet and fall in love while pursuing their dreams in the city of angels.",
+    "genres": ["Comedy", "Drama", "Music"],
+    "lang": "English",
+    "director": "Damien Chazelle",
+    "poster": "https://static.wixstatic.com/media/f86f23_9960096a6fea4437b09c05fc99c8dadb~mv2.jpg/v1/fill/w_1280,h_721,al_c,q_90/file.jpg",
+    "banner": "https://i.pinimg.com/736x/71/35/4c/71354c84e4b8aaa28464048bc56aa36f.jpg"
+  }
+]
